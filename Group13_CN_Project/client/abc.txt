@@ -1,0 +1,6 @@
+iet      21585  4.1  1.1 1419436 92444 pts/5   Sl+  18:32   0:00 vlc -
+root     21586  0.0  0.0   4224    76 ?        Ss   18:32   0:00 vlc-wrapper -
+root     21750  0.0  0.0   4504   704 pts/5    S+   18:32   0:00 sh -c bash vlc_close.sh
+root     21751  0.0  0.0  12520  2884 pts/5    S+   18:32   0:00 bash vlc_close.sh
+root     21760  0.0  0.0  12520  2076 pts/5    S+   18:32   0:00 bash vlc_close.sh
+root     21762  0.0  0.0  14224   960 pts/5    S+   18:32   0:00 grep vlc
